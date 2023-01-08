@@ -15,17 +15,17 @@ body {
 
 /* styles for headline */
 h1 {
-  color: black;
+  color: red;
 }
 
 /* styles for subheadline */
 h2 {
-  color: black;
+  color: red;
 }
 
 /* styles for paragraph */
 p {
-    color: black;
+    color: green;
 }
 
 /* styles for image */
